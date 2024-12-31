@@ -6,12 +6,17 @@
 - First Internal Network Pentest Report (https://github.com/HarditSingh26/laburl)
 - Creating AD Enviornment Documentaiton (https://github.com/HarditSingh26/laburl)
 
-<h2>Hack The Box Walkkthroughs!</h2>
+<h2>Hack The Box Walkthroughs!</h2>
 
 <h2> Certifications </h2>
 
+### CompTIA Security+ CE  
+- Certified since: August, 2023  
+- Certification ID: LE6ZKQ35HBBE16KY  
 
-
+### TCM Security - Practical Junior Penetration Tester  
+- Issued: July, 2024  
+- Credential ID: 109283486  
 
 
 <h2> 🤳 Connect with me:</h2>
