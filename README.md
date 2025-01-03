@@ -3,12 +3,12 @@
 <h2>👨‍💻 Cyber Security Projects!:</h2>
 
 - Elastic Stack Capabilities With Wazuh (https://github.com/HarditSingh26/HarditSingh26/blob/main/Elastic%20Stack%20Capabilities%20With%20Wazuh.pdf)
-- First Internal Network Pentest Report (https://github.com/HarditSingh26/laburl)
-- Creating AD Enviornment Documentaiton (https://github.com/HarditSingh26/laburl)
-
+- First Internal Network Pentest Report (Coming Soon)
+- Creating AD Enviornment Documentaiton (Coming Soon)
+- 
 <h2>Hack The Box Walkthroughs!</h2>
 
-- LinkVortex (https://github.com/HarditSingh26/laburl)
+- LinkVortex (Coming Soon)
 
 <h2> Certifications </h2>
 
